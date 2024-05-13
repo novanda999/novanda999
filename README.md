@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novanda999
-- 👀 I’m interested in game,food, and a little code
-- 🌱 I’m currently learning how to code , basic and average algorithm 
+- 👀 I’m interested in game,Drum,gym, and doing code
+- 🌱 I’m currently Re-learning how to code, basic and average till intermediate
 - 📫 How to reach me contact me on email at novandkensela@gmail.com
 
 <!---
